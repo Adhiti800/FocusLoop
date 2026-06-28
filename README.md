@@ -10,7 +10,7 @@ A Student Leave and Campus Management System built using Django.
 ## 🚀 Features
 * Manages student leaves and complaints
 * user authentication and registration
-* **Role-based** dashboards
+* **Role-based** dashboards for students and teachers
 * Submit and fill **anonymous** complaints
 
 
