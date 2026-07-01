@@ -19,9 +19,9 @@ Focus Loop is a web-based student leave and complaint management system that mak
 ## 🏁🏎️Running the Project
 1. Clone the Repository.
 2. Install Python.
-3. Set virtual Environment: python -m venv myenv
-4. Install Django: pip install django
-5. Run Django: python manage.py runserver
+3. Set virtual Environment: ```python -m venv myenv```
+4. Install Django:  ```pip install django ```
+5. Run Django: ```python manage.py runserver```
 6. Open local host on your browser.
 
 ## ⚙️ The Process
