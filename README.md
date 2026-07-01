@@ -31,7 +31,12 @@ To solve this problem we came up **"FocusLoop"** a simple web-based leave and co
 
 Overall, FocusLoop changes the way universities handle leave and complaints. It removes the nned for paper forms, saves time for students and staff, and ensures that every request is seen and handled correctly. The system creates a clear, easy, and fast way for students and administrators to communicate, making the university life smoother and more organized.
 
-
+## 🔎 Preview
+<table>
+  <tr>
+    <td><image </td>
+  </tr>
+</table>
 
 
 
